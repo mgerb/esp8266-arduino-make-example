@@ -29,7 +29,7 @@
                 "/usr/include",
                 "/home/mitchell/Arduino/hardware/espressif/esp32/tools/sdk/include",
                 "/home/mitchell/Arduino/hardware/espressif/esp32/libraries",
-                "/home/mitchell/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries"
+                "/home/mitchell/.arduino15/packages/esp8266/hardware/esp8266/2.3.0"
             ],
             "defines": [],
             "intelliSenseMode": "clang-x64",
@@ -42,7 +42,7 @@
                     "/usr/include",
                     "/home/mitchell/Arduino/hardware/espressif/esp32/tools/sdk/include",
                     "/home/mitchell/Arduino/hardware/espressif/esp32/libraries",
-                    "/home/mitchell/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries"
+                    "/home/mitchell/.arduino15/packages/esp8266/hardware/esp8266/2.3.0"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
